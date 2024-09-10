@@ -1,3 +1,9 @@
-# Travel App
+# list your goals and keep track of them.
 
-> make a list of categories and activities you want to do in your next travel/ bucket list items with cats
+> scrren showing a list of goals in a category
+
+![Subview Screen](11.png)
+
+> Screen showing searching
+
+![Search Screen](111.png)
